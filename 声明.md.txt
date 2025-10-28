@@ -1,0 +1,11 @@
+背包大小+50（默认） 背包负重+200（默认）
+mod模板参考：https://github.com/xvrsl/duckov_modding
+调试工具
+BepInEx：https://github.com/BepInEx/BepInEx
+UnityExplorer：https://github.com/yukieiji/UnityExplorer
+调用库
+Harmony库：https://github.com/pardeike/Harmony
+
+基于https://github.com/Lexcellent/BigBackpack拉取的源码进行了修改
+
+SiNan声名:我就学习学习看看而已
